@@ -1,1 +1,2 @@
-^^^^^^^^^^^^^^ End of course task in the course LINUX ^^^^^^^^^^^^^^
+# End of course task
+Me and a friend made a system manager in linux with bash scripting
